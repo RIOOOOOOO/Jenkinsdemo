@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JenkinsDemo</string>
+    <string name="welcome_to_demo">WELCOME TO DEMO!!</string>
+</resources>

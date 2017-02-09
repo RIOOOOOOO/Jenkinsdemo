@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "72915602388",
+    "firebase_url": "https://jenkinsdemo-78ab3.firebaseio.com",
+    "project_id": "jenkinsdemo-78ab3",
+    "storage_bucket": "jenkinsdemo-78ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72915602388:android:995aa88da849da59",
+        "android_client_info": {
+          "package_name": "com.sparity.jenkinsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72915602388-fmi25lqesdiu1dv9nbcc0n5j895d5uio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdkvNTjzYnCLYKOygwflcciWQ94Vwyh-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

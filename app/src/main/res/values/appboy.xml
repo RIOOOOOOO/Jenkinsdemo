@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Replace this stand-in key with your actual Appboy API key from the dashboard-->
+    <string  name="com_appboy_api_key">5484039d-5219-47b9-8964-265c5c006417</string>
+    <!-- Whether or not Appboy should handle registering the device to receive push notifications. Default is false. -->
+    <bool name="com_appboy_push_gcm_messaging_registration_enabled">true</bool>
+
+    <!-- Replace with your Google API project number -->
+    <string name="com_appboy_push_gcm_sender_id">72915602388</string>
+</resources>
